@@ -9,6 +9,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+    
   url_launcher: ^6.1.10
   usb_serial: ^0.4.0
   shared_preferences: ^2.0.13
@@ -26,3 +27,8 @@ flutter:
 
   assets:
     - assets/
+
+  fonts:
+    - family: digital-7
+      fonts:
+        - asset: font/digital-7.ttf

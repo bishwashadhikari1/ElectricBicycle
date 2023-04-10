@@ -160,9 +160,9 @@ class _EVControlPageState extends State<EVControlPage> {
                             Text(
                               '$_speed' + ' kmph',
                               style: TextStyle(
-                                  fontSize: 50,
+                                  fontSize: 60,
                                   fontWeight: FontWeight.bold,
-                                  fontFamily: 'Dimensions'),
+                                  fontFamily: 'digital-7'),
                             ),
                           ],
                         ),
