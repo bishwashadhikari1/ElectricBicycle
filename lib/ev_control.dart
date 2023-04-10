@@ -1,4 +1,3 @@
-import 'package:antbike/settings_page.dart';
 import 'package:audioplayers/audioplayers.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
@@ -8,6 +7,7 @@ import 'package:flutter_map/flutter_map.dart';
 import 'package:latlong2/latlong.dart';
 import 'package:geolocator/geolocator.dart';
 import 'package:battery_indicator/battery_indicator.dart';
+import 'settings_page.dart';
 import 'dart:async';
 
 class EVControlPage extends StatefulWidget {

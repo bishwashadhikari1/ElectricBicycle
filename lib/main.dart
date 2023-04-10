@@ -1,5 +1,5 @@
  
-import 'package:antbike/ev_control.dart'; 
+import 'package:electricbicycle/ev_control.dart'; 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
  

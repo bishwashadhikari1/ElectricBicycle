@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:antbike/login.dart';
-import 'package:antbike/signup.dart';
+import 'package:electricbicycle/login.dart';
+import 'package:electricbicycle/signup.dart';
 import 'package:flutter/services.dart';
 
 // Initialize the method channel
